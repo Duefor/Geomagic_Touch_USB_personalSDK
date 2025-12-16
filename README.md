@@ -9,6 +9,7 @@ https://support.3dsystems.com/s/article/OpenHaptics-for-Linux-Developer-Edition-
 https://github.com/bharatm11/Geomagic_Touch_ROS_Drivers?tab=readme-ov-file
 ### 相关资料
 https://blog.csdn.net/weixin_52725622/article/details/134164760?ops_request_misc=elastic_search_misc&request_id=3076085918ab8f971541a5865617cba6&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~ElasticCommercialInsert~search_v2-2-134164760-null-null.142^v102^pc_search_result_base5&utm_term=ubuntu%E5%AE%89%E8%A3%85TouchDriver&spm=1018.2226.3001.4187
+
 https://blog.csdn.net/m0_73225361/article/details/137425971?ops_request_misc=elastic_search_misc&request_id=3076085918ab8f971541a5865617cba6&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-137425971-null-null.142^v102^pc_search_result_base5&utm_term=ubuntu%E5%AE%89%E8%A3%85TouchDriver&spm=1018.2226.3001.4187
 ## 安装步骤
 ### 安装openhaptics
