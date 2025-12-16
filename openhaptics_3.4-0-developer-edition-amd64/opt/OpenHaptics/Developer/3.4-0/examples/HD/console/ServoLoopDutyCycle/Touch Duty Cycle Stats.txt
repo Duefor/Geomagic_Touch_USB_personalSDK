@@ -1,0 +1,195 @@
+
+Scheduler: n 974 mean 0.00201 stdev 0.00259 min 0 max 0.0532
+Input: n 974 mean 0.0692 stdev 0.0491 min 0.00978 max 1.43
+Output: n 974 mean 0.00125 stdev 0.00146 min 0 max 0.0169
+Summary: total mean 0.0724 total min 0.00978 total max 1.5
+
+Scheduler: n 980 mean 0.00187 stdev 0.002 min 0 max 0.015
+Input: n 980 mean 0.0674 stdev 0.0194 min 0.0539 max 0.222
+Output: n 980 mean 0.00127 stdev 0.00135 min 0 max 0.00906
+Summary: total mean 0.0706 total min 0.0539 total max 0.246
+
+Scheduler: n 962 mean 0.00224 stdev 0.00197 min 0 max 0.0172
+Input: n 962 mean 0.0712 stdev 0.023 min 0.0279 max 0.212
+Output: n 962 mean 0.00172 stdev 0.00194 min 0 max 0.0138
+Summary: total mean 0.0752 total min 0.0279 total max 0.243
+
+Scheduler: n 984 mean 0.00164 stdev 0.00174 min 0 max 0.0131
+Input: n 984 mean 0.0643 stdev 0.0164 min 0.0222 max 0.213
+Output: n 984 mean 0.00103 stdev 0.00119 min 0 max 0.00811
+Summary: total mean 0.0669 total min 0.0222 total max 0.234
+
+Scheduler: n 959 mean 0.00235 stdev 0.00205 min 0 max 0.0169
+Input: n 959 mean 0.0713 stdev 0.022 min 0.036 max 0.185
+Output: n 959 mean 0.0016 stdev 0.00183 min 0 max 0.015
+Summary: total mean 0.0752 total min 0.036 total max 0.217
+
+Scheduler: n 980 mean 0.00185 stdev 0.00214 min 0 max 0.016
+Input: n 980 mean 0.0647 stdev 0.0166 min 0.011 max 0.192
+Output: n 980 mean 0.00115 stdev 0.00136 min 0 max 0.0191
+Summary: total mean 0.0677 total min 0.011 total max 0.227
+
+Scheduler: n 973 mean 0.00194 stdev 0.00202 min 0 max 0.0191
+Input: n 973 mean 0.0665 stdev 0.0191 min 0.0451 max 0.22
+Output: n 973 mean 0.00132 stdev 0.00152 min 0 max 0.01
+Summary: total mean 0.0698 total min 0.0451 total max 0.249
+
+Scheduler: n 966 mean 0.00217 stdev 0.00239 min 0 max 0.036
+Input: n 966 mean 0.0721 stdev 0.0266 min 0.02 max 0.376
+Output: n 966 mean 0.00175 stdev 0.00247 min 0 max 0.0439
+Summary: total mean 0.076 total min 0.02 total max 0.456
+
+Scheduler: n 972 mean 0.00209 stdev 0.00197 min 0 max 0.0129
+Input: n 972 mean 0.0708 stdev 0.023 min 0.0541 max 0.181
+Output: n 972 mean 0.00148 stdev 0.00163 min 0 max 0.011
+Summary: total mean 0.0743 total min 0.0541 total max 0.205
+
+Scheduler: n 970 mean 0.00198 stdev 0.00205 min 0 max 0.0291
+Input: n 970 mean 0.0671 stdev 0.0181 min 0.025 max 0.174
+Output: n 970 mean 0.00132 stdev 0.00183 min 0 max 0.0331
+Summary: total mean 0.0704 total min 0.025 total max 0.236
+
+Scheduler: n 984 mean 0.0016 stdev 0.00185 min 0 max 0.021
+Input: n 984 mean 0.0661 stdev 0.0536 min 0.00811 max 1.65
+Output: n 984 mean 0.00112 stdev 0.00169 min 0 max 0.0188
+Summary: total mean 0.0688 total min 0.00811 total max 1.69
+
+Scheduler: n 984 mean 0.00162 stdev 0.00168 min 0 max 0.0138
+Input: n 984 mean 0.0631 stdev 0.0158 min 0.0241 max 0.173
+Output: n 984 mean 0.000855 stdev 0.00115 min 0 max 0.0172
+Summary: total mean 0.0655 total min 0.0241 total max 0.204
+
+Scheduler: n 987 mean 0.00148 stdev 0.0016 min 0 max 0.021
+Input: n 987 mean 0.0606 stdev 0.0123 min 0.052 max 0.168
+Output: n 987 mean 0.000752 stdev 0.00105 min 0 max 0.016
+Summary: total mean 0.0628 total min 0.052 total max 0.205
+
+Scheduler: n 991 mean 0.00149 stdev 0.002 min 0 max 0.0219
+Input: n 991 mean 0.0622 stdev 0.0143 min 0.037 max 0.201
+Output: n 991 mean 0.000811 stdev 0.000945 min 0 max 0.00787
+Summary: total mean 0.0645 total min 0.037 total max 0.231
+
+Scheduler: n 986 mean 0.00163 stdev 0.00188 min 0 max 0.0241
+Input: n 986 mean 0.0651 stdev 0.0196 min 0.0141 max 0.194
+Output: n 986 mean 0.000964 stdev 0.00117 min 0 max 0.00787
+Summary: total mean 0.0677 total min 0.0141 total max 0.226
+
+Scheduler: n 975 mean 0.0017 stdev 0.0018 min 0 max 0.021
+Input: n 975 mean 0.0644 stdev 0.0177 min 0.02 max 0.173
+Output: n 975 mean 0.00096 stdev 0.00121 min 0 max 0.00811
+Summary: total mean 0.067 total min 0.02 total max 0.202
+
+Scheduler: n 985 mean 0.00142 stdev 0.00179 min 0 max 0.0372
+Input: n 985 mean 0.0669 stdev 0.0204 min 0.01 max 0.175
+Output: n 985 mean 0.0011 stdev 0.00131 min 0 max 0.00787
+Summary: total mean 0.0694 total min 0.01 total max 0.22
+
+Scheduler: n 982 mean 0.00169 stdev 0.00205 min 0 max 0.025
+Input: n 982 mean 0.0637 stdev 0.0185 min 0.00882 max 0.368
+Output: n 982 mean 0.000938 stdev 0.000967 min 0 max 0.00691
+Summary: total mean 0.0663 total min 0.00882 total max 0.4
+
+Scheduler: n 990 mean 0.00136 stdev 0.00179 min 0 max 0.021
+Input: n 990 mean 0.0621 stdev 0.0154 min 0.00691 max 0.2
+Output: n 990 mean 0.000874 stdev 0.00102 min 0 max 0.0141
+Summary: total mean 0.0643 total min 0.00691 total max 0.235
+
+Scheduler: n 1010 mean 0.00107 stdev 0.00157 min 0 max 0.02
+Input: n 1010 mean 0.059 stdev 0.032 min 0.00691 max 1.04
+Output: n 1010 mean 0.00131 stdev 0.018 min 0 max 0.572
+Summary: total mean 0.0614 total min 0.00691 total max 1.63
+
+Scheduler: n 1014 mean 0.00109 stdev 0.0013 min 0 max 0.01
+Input: n 1014 mean 0.0584 stdev 0.0102 min 0.00501 max 0.188
+Output: n 1014 mean 0.000755 stdev 0.000995 min 0 max 0.0219
+Summary: total mean 0.0603 total min 0.00501 total max 0.22
+
+Scheduler: n 1007 mean 0.00106 stdev 0.00177 min 0 max 0.0219
+Input: n 1007 mean 0.0579 stdev 0.00939 min 0.00501 max 0.155
+Output: n 1007 mean 0.000768 stdev 0.000819 min 0 max 0.00811
+Summary: total mean 0.0597 total min 0.00501 total max 0.185
+
+Scheduler: n 1007 mean 0.00104 stdev 0.00142 min 0 max 0.02
+Input: n 1007 mean 0.0577 stdev 0.00872 min 0.00596 max 0.105
+Output: n 1007 mean 0.000779 stdev 0.000751 min 0 max 0.00596
+Summary: total mean 0.0595 total min 0.00596 total max 0.131
+
+Scheduler: n 1005 mean 0.00103 stdev 0.00137 min 0 max 0.015
+Input: n 1005 mean 0.0584 stdev 0.0127 min 0.00477 max 0.267
+Output: n 1005 mean 0.000754 stdev 0.000741 min 0 max 0.00906
+Summary: total mean 0.0602 total min 0.00477 total max 0.291
+
+Scheduler: n 1007 mean 0.00102 stdev 0.0012 min 0 max 0.0112
+Input: n 1007 mean 0.0585 stdev 0.00959 min 0.00691 max 0.164
+Output: n 1007 mean 0.000868 stdev 0.00114 min 0 max 0.0229
+Summary: total mean 0.0604 total min 0.00691 total max 0.198
+
+Scheduler: n 1008 mean 0.00104 stdev 0.00137 min 0 max 0.0179
+Input: n 1008 mean 0.058 stdev 0.0104 min 0.00596 max 0.16
+Output: n 1008 mean 0.000763 stdev 0.000836 min 0 max 0.0119
+Summary: total mean 0.0598 total min 0.00596 total max 0.19
+
+Scheduler: n 1007 mean 0.000955 stdev 0.00137 min 0 max 0.0119
+Input: n 1007 mean 0.0585 stdev 0.0101 min 0.00596 max 0.132
+Output: n 1007 mean 0.000834 stdev 0.00119 min 0 max 0.025
+Summary: total mean 0.0603 total min 0.00596 total max 0.169
+
+Scheduler: n 1010 mean 0.000897 stdev 0.00129 min 0 max 0.0198
+Input: n 1010 mean 0.0574 stdev 0.0121 min 0.00501 max 0.269
+Output: n 1010 mean 0.000821 stdev 0.00104 min 0 max 0.0229
+Summary: total mean 0.0591 total min 0.00501 total max 0.312
+
+Scheduler: n 1011 mean 0.00088 stdev 0.00141 min 0 max 0.0212
+Input: n 1011 mean 0.0581 stdev 0.0106 min 0.0062 max 0.18
+Output: n 1011 mean 0.000789 stdev 0.000869 min 0 max 0.0141
+Summary: total mean 0.0597 total min 0.0062 total max 0.215
+
+Scheduler: n 944 mean 0.00334 stdev 0.00255 min 0 max 0.061
+Input: n 944 mean 0.0928 stdev 0.06 min 0.0551 max 1.74
+Output: n 944 mean 0.00327 stdev 0.00251 min 0 max 0.021
+Summary: total mean 0.0994 total min 0.0551 total max 1.82
+
+Scheduler: n 940 mean 0.00357 stdev 0.00197 min 0 max 0.0238
+Input: n 940 mean 0.0966 stdev 0.0927 min 0.056 max 2.81
+Output: n 940 mean 0.00362 stdev 0.00292 min 0 max 0.0391
+Summary: total mean 0.104 total min 0.056 total max 2.87
+
+Scheduler: n 939 mean 0.00361 stdev 0.00264 min 0 max 0.0222
+Input: n 939 mean 0.0958 stdev 0.0284 min 0.036 max 0.197
+Output: n 939 mean 0.00382 stdev 0.0027 min 0 max 0.025
+Summary: total mean 0.103 total min 0.036 total max 0.244
+
+Scheduler: n 932 mean 0.00382 stdev 0.00314 min 0 max 0.0269
+Input: n 932 mean 0.102 stdev 0.029 min 0.0451 max 0.196
+Output: n 932 mean 0.00438 stdev 0.00272 min 0 max 0.03
+Summary: total mean 0.11 total min 0.0451 total max 0.253
+
+Scheduler: n 922 mean 0.00357 stdev 0.00206 min 0 max 0.0219
+Input: n 922 mean 0.098 stdev 0.0287 min 0.0551 max 0.217
+Output: n 922 mean 0.00407 stdev 0.00326 min 0 max 0.0601
+Summary: total mean 0.106 total min 0.0551 total max 0.299
+
+Scheduler: n 924 mean 0.00367 stdev 0.00206 min 0 max 0.0298
+Input: n 924 mean 0.103 stdev 0.03 min 0.0548 max 0.207
+Output: n 924 mean 0.00415 stdev 0.00282 min 0 max 0.0381
+Summary: total mean 0.11 total min 0.0548 total max 0.275
+
+Scheduler: n 932 mean 0.00357 stdev 0.00257 min 0 max 0.0279
+Input: n 932 mean 0.0906 stdev 0.0267 min 0.0548 max 0.238
+Output: n 932 mean 0.00356 stdev 0.00298 min 0 max 0.03
+Summary: total mean 0.0978 total min 0.0548 total max 0.296
+
+Scheduler: n 938 mean 0.00337 stdev 0.00211 min 0 max 0.026
+Input: n 938 mean 0.0939 stdev 0.0273 min 0.0491 max 0.199
+Output: n 938 mean 0.00363 stdev 0.00253 min 0 max 0.0212
+Summary: total mean 0.101 total min 0.0491 total max 0.246
+
+Scheduler: n 936 mean 0.00363 stdev 0.00327 min 0 max 0.026
+Input: n 936 mean 0.0959 stdev 0.0291 min 0.0281 max 0.227
+Output: n 936 mean 0.00384 stdev 0.00278 min 0 max 0.0279
+Summary: total mean 0.103 total min 0.0281 total max 0.281
+
+Scheduler: n 942 mean 0.00346 stdev 0.00307 min 0 max 0.062
+Input: n 942 mean 0.0921 stdev 0.0271 min 0.0381 max 0.185
+Output: n 942 mean 0.00343 stdev 0.00265 min 0 max 0.035
+Summary: total mean 0.099 total min 0.0381 total max 0.282

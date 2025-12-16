@@ -1,0 +1,17 @@
+Rate: n 987 mean 987.21 stdev 40.6119 min 420.248 max 1093.4
+Rate: n 980 mean 980.794 stdev 38.379 min 809.236 max 1071.46
+Rate: n 977 mean 977.954 stdev 41.1901 min 763.048 max 1148.51
+Rate: n 984 mean 985.083 stdev 36.1484 min 493.576 max 1057.93
+Rate: n 985 mean 985.907 stdev 36.2692 min 817.365 max 1094.75
+Rate: n 987 mean 988.642 stdev 37.8295 min 443.382 max 1100.58
+Rate: n 982 mean 982.714 stdev 36.3542 min 799.188 max 1101.38
+Rate: n 1010 mean 1008.45 stdev 28.9755 min 414.183 max 1102.15
+Rate: n 1013 mean 1008.34 stdev 20.7054 min 884.599 max 1087.94
+Rate: n 1011 mean 1010.95 stdev 28.4329 min 511.133 max 1105.88
+Rate: n 1009 mean 1008.43 stdev 22.8904 min 771.092 max 1120.91
+Rate: n 1008 mean 1007.81 stdev 27.1594 min 552.07 max 1079.59
+Rate: n 1011 mean 1010.84 stdev 21.4517 min 905.312 max 1083.29
+Rate: n 1011 mean 1011.66 stdev 29.2222 min 702.672 max 1216.99
+Rate: n 1007 mean 1007.47 stdev 26.6436 min 716.018 max 1236.7
+Rate: n 1005 mean 1004.96 stdev 24.1409 min 894.254 max 1078.29
+Rate: n 1006 mean 1005.97 stdev 26.7819 min 530.375 max 1106.68
