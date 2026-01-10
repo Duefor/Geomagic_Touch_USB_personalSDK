@@ -18,7 +18,9 @@ https://blog.csdn.net/m0_73225361/article/details/137425971?ops_request_misc=ela
 cd openhaptics_3.4-0-developer-edition-amd64
 chmod +x install
 ./install
-```
+```		
+> 注意一下安装过程中会提示安装`libncurses5-dev`开发包，但这个包只包含头文件和开发工具
+> 还需要安装`libncurses5`
 ### 安装TouchDriver
 1. `cd TouchDriver_2024_09_19/bin`
 2. 将bin中可执行文件复制到系统目录/usr/bin中
